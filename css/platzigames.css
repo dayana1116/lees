@@ -15,6 +15,7 @@ body {
   margin: 0;
   font-family: 'lato', sans-serif;
   color: #333333;
+  font-size: 18px;
   line-height: 28px;
 }
 h1,
@@ -31,7 +32,7 @@ h3 {
   padding: 10px;
   margin: 0 auto;
   position: relative;
-  background-color: #fff;
+  background-color: #8841da;
   -webkit-box-shadow: 0px 5px 15px 0px rgba(51, 51, 51, 0.5);
           box-shadow: 0px 5px 15px 0px rgba(51, 51, 51, 0.5);
 }
@@ -65,6 +66,7 @@ h3 {
   font-family: 'Oswald', seans-serif;
   text-transform: 'uppercase';
   font-size: 50px;
+  line-height: 60px;
 }
 .intro__autor {
   width: 150px;
@@ -93,12 +95,14 @@ h3 {
   margin: 0 auto;
 }
 .articulo--principal__intro {
-  font-size: 26px;
+  font-size: 25px;
+  line-height: 35px;
 }
 .articulo--principal h2 {
   margin: 40px 0 40px 0;
-  font-size: 50px;
   text-align: center;
+  font-size: 50px;
+  line-height: 60px;
 }
 .articulo--principal h3 {
   color: #8841da;
@@ -120,10 +124,10 @@ h3 {
 }
 .caja__contenido {
   padding: 25px;
-  background-color: #fff;
+  background-color: #8841da;
 }
 .caja span {
-  color: #8841da;
+  color: #fff;
   font-family: 'Oswald', seans-serif;
   text-transform: uppercase;
   font-weight: 700;
