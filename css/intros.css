@@ -4,12 +4,13 @@
 }
 body {
   margin: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'lato', sans-serif;
+  color: #333333;
 }
 h1,
 h2,
 h3 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', seans-serif;
   text-transform: uppercase;
   margin: 0;
 }
@@ -41,11 +42,11 @@ h3 {
   color: #fff;
 }
 .intro__categoria {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', seans-serif;
   text-transform: 'uppercase';
 }
 .intro__titulo {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', seans-serif;
   text-transform: 'uppercase';
   font-size: 50px;
 }
